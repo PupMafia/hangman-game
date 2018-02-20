@@ -1,0 +1,9 @@
+.header {
+    background-image: url("assets/images/header.jpg");
+    width: 100%;
+    max-height: 300px;
+}
+
+body {
+    background-color: grey;
+}
